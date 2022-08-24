@@ -1,0 +1,246 @@
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+.yelloBg {
+  background-color: #fff6da;
+}
+.yellowCLass {
+  color: #ffc727;
+}
+.input-group {
+  width: 481px;
+  height: 50px;
+  background-color: #ffc727;
+  outline: none;
+}
+.headingCLass {
+  font-size: 47px;
+  font-weight: 800;
+  line-height: 70px;
+}
+.btnClr {
+  background-color: #ffc727;
+  color: white;
+}
+.btnsClr {
+  background-color: #ffc727;
+  color: black;
+  font-size: 15px;
+  font-weight: 500;
+}
+.form-control {
+  border: 2px solid #ffc727;
+  border-radius: 7px;
+}
+.coursePara {
+  font-size: 30px;
+  font-weight: 600;
+  color: #878787;
+}
+.bgCOlor {
+  background-color: rgb(234, 234, 234);
+}
+.banners {
+  width: 200px;
+  height: 70px;
+}
+.flipkartBanner {
+  width: 250px;
+}
+.courseTitle {
+  font-size: 45px;
+  font-weight: 700;
+}
+.amfossPara {
+  font-size: 25px;
+  font-weight: 500;
+  color: #6a6a6a;
+}
+.box {
+  width: 600px;
+}
+.cards-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.card img {
+  max-width: 100%;
+  max-height: 100%;
+}
+.card {
+  margin: 0 0.5em;
+  border: none;
+  border-radius: 0;
+  background: #ffffff;
+  box-shadow: -6px 7px 74px -13px rgba(0, 0, 0, 0.15);
+  width: 450px;
+}
+.carousel-inner {
+  padding: 1em;
+}
+.carousel-control-prev,
+.carousel-control-next {
+  background-color: #4c580b;
+  width: 5vh;
+  height: 5vh;
+  border-radius: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+@media (min-width: 768px) {
+  .card img {
+    height: 11em;
+  }
+}
+.carousel-control-prev,
+.carousel-control-next {
+  background-color: #ffc727;
+}
+.fa-circle-caret-left {
+  color: black;
+}
+.carousel-control-prev-icon {
+  background-image: url(./assests/Vector-previous.png);
+  width: 13.22px;
+  height: 21px;
+}
+.carousel-control-next-icon {
+  background-image: url(./assests/next.png);
+  width: 13.22px;
+  height: 21px;
+}
+.cards-wrapper {
+  width: 1200px;
+}
+.cardImg {
+  width: 100px;
+  height: auto;
+}
+.carousalCards {
+  /* width: 404px;
+    height: auto; */
+  background-color: #fff3d2;
+  border-radius: 20px;
+}
+.quotes {
+  font-size: 50px;
+}
+.card-text {
+  font-size: 22px;
+  font-weight: 400;
+  color: #565454;
+}
+.NameClass {
+  font-size: 25px;
+  font-weight: 700;
+  color: #565454;
+}
+.dateClass {
+  font-size: 20px;
+  font-weight: 700;
+  color: #565454;
+}
+.logoCLass {
+  width: 146px;
+  height: 146px;
+}
+.loginButton {
+  background-color: black;
+  color: white;
+  width: 140px;
+  border-radius: 4px;
+}
+.navbar-nav .nav-link.active,
+.navbar-nav .show > .nav-link {
+  color: #ffc727;
+}
+.fa-facebook,
+.fa-twitter,
+.fa-linkedin-in,
+.fa-github {
+  color: #ffc727;
+}
+.btn-link {
+  text-decoration: none;
+}
+.card-text {
+  color: #4e4949;
+  font-size: 15px;
+  font-weight: 300;
+}
+.backGorund {
+  background-image: url(./assests/background.png);
+  height: 450px;
+  justify-content: center;
+  align-items: center;
+}
+.ractangleBox {
+  width: 494px;
+  height: auto;
+  background-color: #fffaea;
+  border-radius: 10px;
+  /* top: 100px; */
+}
+.flutterHead {
+  font-size: 35px;
+  font-weight: 600;
+}
+.flutterPara {
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 33px;
+}
+.courseModule {
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 33px;
+  cursor: pointer;
+}
+.card-title {
+  font-size: 25px;
+  font-weight: 500;
+}
+.warningButton {
+  width: 100%;
+  font-size: 18px;
+  font-weight: 500;
+}
+.card-subtitle {
+  font-weight: 600;
+}
+.aboutCourse {
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 37.5px;
+}
+.courseModules {
+  font-size: 35px;
+  font-weight: 600;
+  line-height: 52px;
+}
+.accordion-item:first-of-type .accordion-button {
+  background-color: #f3dea1;
+}
+.accordion-button:not(.collapsed) {
+  background-color: #f3dea1;
+}
+.accordion-button:not(.collapsed) {
+  color: black;
+}
+.accordion-item {
+  border: 5px solid white;
+}
+.palyButton {
+  width: 45px;
+  height: 45px;
+}
+.cursorPointer {
+  cursor: pointer;
+}
+.accordion-button {
+  background-color: #fff7e1;
+}
+.horizontalRuler {
+  color: white;
+}
